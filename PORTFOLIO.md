@@ -1,4 +1,6 @@
 Hello there! I go by coderCleric online, and I am a passionate programmer with a particular interest in game design and development. In the sections down below I’ve put some of the projects that I’m most proud of, I invite you to take a look at them!
+
+---
 ## [Forgotten Castaways](https://github.com/coderCleric/DeepBramble)
 ![Forgotten Castaways Banner](fc_banner.png)
 By far the project that I’m most proud of, Forgotten Castaways is a mod for the game Outer Wilds. The mod aims to add additional story and narrative to the game by allowing the player to explore deeper into one of the game’s more interesting areas. To do this, the mod adds new characters, locations, lore, and puzzles. <br />
@@ -7,12 +9,14 @@ Being such a large undertaking, a number of different tools were used during the
 
 Developed largely as a solo project, external contributions to the mod were limited to music, certain visual assets, brainstorming, and feedback on existing elements. With almost three years between the initial commit and the formal release of the mod, this was a true test of my ability to commit to a long-term project. Overall I am very proud of the end result, and what it demonstrates for my ability as a game developer.
 
+---
 ## [Heliostudy](https://github.com/2walker2/OWJam5ModProject)
 ![Heliostudy Banner](heliostudy_banner.png)
 Heliostudy is another Outer Wilds mod, this one being created in just two weeks for the fifth Outer Wilds mod jam. This mod was intended to provide a smaller scale, more lighthearted narrative alongside some fun and creative puzzles. <br />
 
 While most of my other projects have been done without much intervention from others, Heliostudy was actually created by a team consisting of me and three other people. This meant that we all had to work collaboratively and utilize our social skills in order to create a mod that we were proud of. In this team my role was to contribute to the narrative and puzzle concepts, program a portion of the puzzle logic, and write the majority of the character dialogue. Overall Heliostudy turned out to be a very successful mod, winning first place in the jam and still being considered one of the highest quality story mods in the community.
 
+---
 ## [Poltergeist](https://github.com/coderCleric/Poltergeist)
 ![Poltergeist Banner](poltergeist_banner.png)
 Poltergeist is a mod for the game Lethal Company, aiming to provide players who die in-game with a novel gameplay mode. Essentially, dead players are turned into ghosts instead of entering a standard spectate mode in order to maintain their engagement with the game. While ghosts, players are able to fly around in a freecam mode and can perform various interactions. These interactions include opening/closing doors, pestering enemies, and even manifesting for living players to see. <br />
@@ -23,6 +27,7 @@ Since Lethal Company is a Unity game, this mod uses the Unity game engine alongs
 
 Overall, Poltergeist does a very good job of preventing boredom in dead players, providing them with a variety of ways to help and hinder their living friends. With almost 900,000 cumulative downloads, it is quite a popular mod that many players consider to be a must-have.
 
+---
 ## [Computer Literacy Game](https://github.com/coderCleric/Computer-Literacy-Game)
 ![Computer Literacy Game Banner](literacy_game_banner.png)
 The Computer Literacy Game is a small game that I made to be the thesis project for my Master’s degree. As the name may suggest, this game was created to help teach late middle and early high school students about the digital file system, with a focus on how the file system is organized via folders. <br />
